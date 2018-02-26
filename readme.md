@@ -8,7 +8,7 @@ in this scenario.
 
 ### Install
 
-hpm install hyper-ctrl-dir-scroll
+hpm install hyper-disable-new-version-notification
 
 ### If it doesn't work
 
