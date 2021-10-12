@@ -1,6 +1,6 @@
 {
   "name": "hyper-disable-new-version-notification",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Disables the new version notification",
   "main": "index.babel.js",
   "scripts": {
